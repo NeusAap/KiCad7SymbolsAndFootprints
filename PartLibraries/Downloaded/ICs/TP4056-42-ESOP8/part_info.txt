@@ -1,0 +1,9 @@
+Manufacturer=Nanjing Extension Microelectronics
+PartNumber=TP4056-42-ESOP8
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=1.1
+Released=2019-07-23 02:41:49
+Downloaded=2023-06-14 15:04:46
+3D=Y

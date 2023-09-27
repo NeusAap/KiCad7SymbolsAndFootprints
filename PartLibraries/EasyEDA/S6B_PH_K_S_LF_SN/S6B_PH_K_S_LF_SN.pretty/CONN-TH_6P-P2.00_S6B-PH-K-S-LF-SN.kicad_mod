@@ -66,7 +66,7 @@
   (pad "5" thru_hole circle (at 3 0 180) (size 1.5 1.5) (drill 0.799998) (layers "*.Cu" "*.Paste" "*.Mask") (tstamp f7f6ed9b-bf87-4567-94d6-5fbd118426c8))
   (pad "6" thru_hole circle (at 5 0 180) (size 1.5 1.5) (drill 0.799998) (layers "*.Cu" "*.Paste" "*.Mask") (tstamp 168f9de9-d56a-4eda-93a6-c8d49c2d3e53))
   (model "/home/mats/GitHub/KiCad7SymbolsAndFootprints/PartLibraries/EasyEDA/S6B_PH_K_S_LF_SN/S6B_PH_K_S_LF_SN.3dshapes/CONN-TH_6P-P2.00_S6B-PH-K-S-LF-SN.wrl"
-    (offset (xyz 0 -2.35 0.25))
+    (offset (xyz 0 -3.2 0.25))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
